@@ -10,6 +10,3 @@ def mul(num1, num2):
 
 def divide_new(a, b):
     return num1 / num2
-
-def say_hello():
-	print("hello")
